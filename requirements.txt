@@ -1,0 +1,10 @@
+tensorflow==2.10.0
+tensorflow_text=2.10.0
+tensorflow_hub==2.10.0
+pandas
+scikit-learn
+pickle
+nltk
+gensim
+transformers
+torch
